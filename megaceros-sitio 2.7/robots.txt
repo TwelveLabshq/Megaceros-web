@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://harmonious-otter-5aec1d.netlify.app/sitemap.xml
